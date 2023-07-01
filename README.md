@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-Strat Date: 29th Apr, 2023
+Start Date: 29th Apr, 2023
 
 Description:
 
